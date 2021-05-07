@@ -1,7 +1,7 @@
 # Grocery-Store-Database
 Created a project for different users of a grocery store. The database was created using MySQL. The REST API was created in PHP and the web application was created using HTML and CSS. The mobile application was created using Java in Android Studio.
 
-Screenshots of the functioning web and mobile applciaiton.
+Screenshots of the functioning web and mobile application.
 ![CPSC 471 Final Report Group 16_Page_01](https://user-images.githubusercontent.com/47364498/117516948-d70e8280-af57-11eb-9d25-7f262cd48621.png)
 ![CPSC 471 Final Report Group 16_Page_02](https://user-images.githubusercontent.com/47364498/117516951-d7a71900-af57-11eb-92d4-78022ed250db.png)
 ![CPSC 471 Final Report Group 16_Page_03](https://user-images.githubusercontent.com/47364498/117516952-d7a71900-af57-11eb-8966-75808241ade9.png)
